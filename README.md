@@ -1,3 +1,10 @@
+# Student Details
+**Name:** Rupesh Belhekar
+**Department:** AI & DS
+**PRN No.:** 22210091
+**Roll No.:** 372010
+**Div:** 'B'
+
 # MLOps Assignments
 
 
